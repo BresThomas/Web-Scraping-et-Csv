@@ -1,0 +1,11 @@
+Ce projet Python a pour but de renvoyer un fichier csv ("new_top_films.csv"), qui ajoute le descripteur Url, au informations du fichier csv ("Top_Films.csv") déjà existants. Celui-ci comprends les descripteurs suivants :
+
+Rank (Le rang du film sur le site IMDB)
+Title (Le titre du film)
+Year (L'année de sorti du film)
+IMDb_Rating (La note du film sur le site IMDB) Et donc on y ajoute le descripteur suivant :
+Url (L'url de l'affiche du film)
+
+Avec le fichier csv final ("new_top_films.csv"), on peut affiché la liste de films dans 'Notion' voici un exemple que j'ai réalisé :
+
+  https://thomas-bres.notion.site/26f6856fd5ef49cfa3be28d5f9ce04fd?v=930ab0997d284dfe8b70c527c1525c48
